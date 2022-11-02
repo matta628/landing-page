@@ -17,6 +17,21 @@ ul{
     display: flex;
     gap: 16px;
 }
+
+.title-container{
+    display: flex;
+    margin: 50px 100px;
+}
+.title{
+    display:flex;
+    flex-direction: column;
+    flex: 1 1 0px;
+}
+.title-img{
+    width: 0px;
+    flex: 1 1 0px;
+ }
+
 .quote-container{
     background-color: #E5E7EB;
 }
