@@ -98,8 +98,26 @@ ul{
     color: #1F2937;
 }
 
-.quote-container{
+.quote{
     background-color: #E5E7EB;
+}
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.quote-container{
+    width: 50%;
+    margin: 0 auto;
+    padding: 100px 0px;
+}
+.quote-author{
+    color: #1F2937;
+    font-size: 20px;
+    font-weight: 800;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
 }
 
 .sign-up{
